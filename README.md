@@ -110,3 +110,10 @@ ai-studybuddy/
 | `refreshToken` | 7 days   | httpOnly, sameSite=strict    |
 
 In production, both cookies have `secure: true`.
+## Demo Video
+
+[Watch Demo Video](https://drive.google.com/file/d/1LpTtC28FgkWjCUnVIdkdpuWXCml2DwnO/view?usp=sharing)
+
+## Project Documentation
+
+[View Project Documentation](https://github.com/2006-dhana/ai-study-buddy/blob/main/NM_AI%20STUDY%20BUDDY%20API_DOCUMENT-1.docx)
